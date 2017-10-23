@@ -1,0 +1,6 @@
+[submodule "libigl"]
+	path = libigl
+	url = https://github.com/Celli119/libigl.git
+[submodule "slimDeformation"]
+	path = slimDeformation
+	url = https://github.com/Celli119/slimDeformation.git
